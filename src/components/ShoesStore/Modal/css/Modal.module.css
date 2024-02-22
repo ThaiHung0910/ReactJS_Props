@@ -1,0 +1,8 @@
+.header {
+  justify-content: center;
+}
+
+.item_q_p {
+  display: flex;
+  justify-content: space-between;
+}
